@@ -19,9 +19,9 @@ Los planos del aprendizaje como herramientas visuales y estructurales que organi
 
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|Ronald Gallardo|      Capitán        |                   |
-|    Silvia Lasso   |     SubCapitana          |                   |
-|   Sandra Guillén    |       Pasajera      |                   |
+|Ronald Gallardo|      Capitán        |    ronald.gallardo@oteima.ac.pa                |
+|    Silvia Lasso   |     SubCapitana          |      silvia.lasso@oteima.ac.pa             |
+|   Sandra Guillén    |       Pasajera      |       sandra.guillen@oteima.ac.pa            |
 |        |               |                   |
 
 ---
@@ -64,21 +64,4 @@ Los planos del aprendizaje como herramientas visuales y estructurales que organi
 
 ---
 
-## 🌟 Sugerencia creativa
 
-💡 Piensen su circuito como si fuera:
-- 🔌 Un sistema eléctrico  
-- 🛰️ Una red de datos  
-- 🚀 Una nave espacial en comunicación constante  
-
----
-
-## 🧩 Entregable
-
-- ✔️ Documento en Notion o PDF  
-- ✔️ Diseño visual del circuito  
-- ✔️ Reflexión grupal  
-
----
-
-✨ *¡Conecten ideas, transmitan conocimiento y mantengan el circuito activo!*
