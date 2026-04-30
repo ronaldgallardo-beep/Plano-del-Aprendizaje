@@ -3,7 +3,7 @@ Los planos del aprendizaje como herramientas visuales y estructurales que organi
 # 🌌 Planos del Aprendizaje: Armando el Circuito Comunicativo
 
 ### 🛰️ Título:
-**Plano comunicativo – Nave [Nombre del Grupo]**
+**Plano comunicativo – Nave [NOVA]**
 
 ---
 
@@ -44,9 +44,9 @@ Los planos del aprendizaje como herramientas visuales y estructurales que organi
 
 ### 💡 Reflexión
 
-- ❓ ¿Qué roles asumimos como emisores y receptores?  
-- 📱 ¿Qué medios utilizamos?  
-- ⚠️ ¿Qué obstáculos interfieren en la comunicación?  
+- ❓ ¿Qué roles asumimos como emisores y receptores?  Dejamos de ser solo receptores pasivos para ser prosumidores (productores y consumidores) de contenido.
+- 📱 ¿Qué medios utilizamos?  Plataforma Moodle de Oteima, correo institucional, WhatsApp y sesiones sincrónicas (Zoom/Teams).
+- ⚠️ ¿Qué obstáculos interfieren en la comunicación?  Fallas en la conexión a internet (ruido técnico), falta de claridad en las instrucciones (ruido semántico) o fatiga digital.
 
 ---
 
@@ -56,11 +56,11 @@ Los planos del aprendizaje como herramientas visuales y estructurales que organi
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**       |            |                                                          |                      |
-| 👂 **Receptor**     |            |                                                          |                      |
-| 🌐 **Canal**        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
-| ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
-| 🔁 **Retroalimentación** |      | Cómo se completa el circuito                             |                      |
+| 🔊 **Emisor**       |    Docente / Ronald        |      Quien codifica el mensaje pedagógico o la instrucción de la misión.                                                    |                      |
+| 👂 **Receptor**     |  Estudiantes / Sandra          |       Quien decodifica y procesa la información para aplicarla.                                                   |                      |
+| 🌐 **Canal**        |    Plataforma Virtual        | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
+| ⚠️ **Ruido**        |     	Contenido Curricular       | Ej: desconexión, distracción, mal diseño de contenido    |                      |
+| 🔁 **Retroalimentación** |   	Calificaciones / Comentarios   | Cómo se completa el circuito                             |                      |
 
 ---
 
