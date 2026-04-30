@@ -56,7 +56,7 @@ Los planos del aprendizaje como herramientas visuales y estructurales que organi
 
 | Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**       |    Docente / Ronald        |      Quien codifica el mensaje pedagógico o la instrucción de la misión.                                                    |                      |
+| 🔊 **Emisor**       |    Docente / Ronald        |      Quien codifica el mensaje pedagógico o la instrucción de la misión.                                                    |          👨‍🚀            |
 | 👂 **Receptor**     |  Estudiantes / Sandra          |       Quien decodifica y procesa la información para aplicarla.                                                   |                      |
 | 🌐 **Canal**        |    Plataforma Virtual        | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
 | ⚠️ **Ruido**        |     	Contenido Curricular       | Ej: desconexión, distracción, mal diseño de contenido    |                      |
